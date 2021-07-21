@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+pdpf.weebly.com	TRUE	/	FALSE	1999999999	is_mobile	0
+pdpf.weebly.com	TRUE	/	FALSE	1999999999	cookie-consent	%7B%22allowStrictlyNecessaryCookies%22%3Atrue%2C%22allowFunctionalityCookies%22%3Atrue%2C%22allowPerformanceCookies%22%3Atrue%2C%22allowTargetingCookies%22%3Atrue%7D
+pdpf.weebly.com	TRUE	/	FALSE	1999999999	language	en
+
